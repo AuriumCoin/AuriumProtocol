@@ -16,4 +16,4 @@ enums:
   enum_msgtype:
     0x00: node_id_req
     0x01: node_id_resp
-    
+    0x02: keepalive
